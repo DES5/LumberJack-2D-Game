@@ -1,6 +1,7 @@
 import pygame 
 from setting import * 
 
+#geiaaa
 
 class Player(pygame.sprite.Sprite):
 	def __init__(self,pos):
